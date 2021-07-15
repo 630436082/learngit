@@ -4,4 +4,6 @@ Git has a mutable index called stage
 Git track changs of files
 Create a new branch is quick and simple
 Then merge
+
 This is a test 
+fix bug 101
